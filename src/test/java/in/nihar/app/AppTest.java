@@ -9,6 +9,7 @@ import org.junit.Test;
  */
 public class AppTest 
 {
+    int x=50;
     /**
      * Rigorous Test :-)
      */
